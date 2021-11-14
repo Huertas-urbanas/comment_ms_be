@@ -1,0 +1,5 @@
+django==3.2.7
+djangorestframework==3.12.4
+djangorestframework-simplejwt==4.8.0
+psycopg2==2.9.1
+django-heroku==0.3.1
